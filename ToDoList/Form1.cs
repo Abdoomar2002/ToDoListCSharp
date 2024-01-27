@@ -26,7 +26,7 @@ namespace ToDoList
         {
             showList1.BringToFront();
             showList1.ShowList_Load(null,null);
-            notifyIcon1.ShowBalloonTip(3000,"asfad","adfa",ToolTipIcon.Info);
+           // notifyIcon1.ShowBalloonTip(3000,"asfad","adfa",ToolTipIcon.Info);
         }
     }
 }
